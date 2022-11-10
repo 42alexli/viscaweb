@@ -12,6 +12,7 @@ $orange_words = array(
 /**
  *
  * I misunderstood the task, did it, was glad that it was fast.
+ * You can uncomment and run the script, it's working
  *
  */
 //function find_word($array)
