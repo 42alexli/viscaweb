@@ -1,6 +1,10 @@
 <?php
 /**
  *
+ * You can transfer this file to your server from the theme folder, for example,
+ * to the inc folder. Next, go to editing the function.php file, go to the end of the file and write:
+ * require get_template_directory() . '/inc/new_block_shulha.php';
+ *
  * Let's implement the class new_block_shulha_class
  *
  *
