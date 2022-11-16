@@ -1,0 +1,51 @@
+{
+  "data": [{
+    "logo": "bet365.svg",
+    "logo_link": "www.bet365.com",
+    "logo_name": "bet365",
+    "stars_quantity": 5,
+    "review_link": "/review/1",
+    "exclusive": "<span class='exclusive'>- Exclusive -</span>",
+    "bonus_description": "Bonus <span class='display_none'>up to </span><b>$200</b>",
+    "play_now_link": "www.bet365.com"
+  },
+    {
+      "logo": "leevegas.svg",
+      "logo_link": "https://www.leovegas.com/en-row/",
+      "logo_name": "LeoVegas",
+      "stars_quantity": 3,
+      "review_link": "/review/2",
+      "exclusive": "<span class='exclusive'>- Exclusive -</span>",
+      "bonus_description": "<span class='display_none'>Up to </span><b>$500</b> Free Bet",
+      "play_now_link": "https://www.leovegas.com/en-row/"
+    },
+    {
+      "logo": "888.svg",
+      "logo_link": "888sport.com",
+      "logo_name": "888sport",
+      "stars_quantity": 4,
+      "review_link": "/review/3",
+      "exclusive": "<span class='exclusive'>- Exclusive -</span>",
+      "bonus_description": "<b>$200</b> Free Bet",
+      "play_now_link": "888sport.com"
+    }, {
+      "logo": "up.svg",
+      "logo_link": "#",
+      "logo_name": "bettor",
+      "stars_quantity": 5,
+      "review_link": "/review/4",
+      "exclusive": "",
+      "bonus_description": "<span class='display_none'><b>100%</b> Sign Up</span> Bonus  <span class='display_none'>Up to</span> <b>$200</b>",
+      "play_now_link": "#"
+    }, {
+      "logo": "William_Hill.svg",
+      "logo_link": "williamhill.com",
+      "logo_name": "William Hill",
+      "stars_quantity": 5,
+      "review_link": "/review/5",
+      "exclusive": "",
+      "bonus_description": "<span class='display_none'><b>100%</b> Sign Up</span> Bonus  <span class='display_none'>Up to</span> <b>$200</b>",
+      "play_now_link": "williamhill.com"
+    }
+  ]
+}
