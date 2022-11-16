@@ -1,0 +1,4 @@
+According to the presented code, we have 4 hosts, the time of one iteration is from 60-120 seconds,
+and the script run time by cron is once every five minutes - this can lead to the fact that the queue of parallel
+running scripts will start to accumulate, the obvious solution would be to increase the time to at least 10 minutes,
+5 minutes is too often
